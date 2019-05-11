@@ -1,0 +1,188 @@
+@media (max-width:768px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3,
+  .style4,
+  .style5 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px
+  }
+  .style5 {
+    margin-top: 20px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphone678horizontalgridrow0 {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 220px;
+    height: 100px;
+    align-items: stretch
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 100px
+  }
+  .style7 {
+    margin-left: 20px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3,
+  .style4,
+  .style5 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 102px;
+    margin-top: 102px;
+    width: 205px;
+    height: 205px
+  }
+  .style5 {
+    margin-top: 41px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphone678horizontalgridrow0 {
+    display: flex;
+    margin-left: 102px;
+    margin-top: 102px;
+    width: 451px;
+    height: 205px;
+    align-items: stretch
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 205px
+  }
+  .style7 {
+    margin-left: 41px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3,
+  .style4,
+  .style5 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 123px;
+    margin-top: 123px;
+    width: 245px;
+    height: 245px
+  }
+  .style5 {
+    margin-top: 49px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphone678horizontalgridrow0 {
+    display: flex;
+    margin-left: 123px;
+    margin-top: 123px;
+    width: 540px;
+    height: 245px;
+    align-items: stretch
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 245px
+  }
+  .style7 {
+    margin-left: 49px
+  }
+}
+@media (min-width:1200px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3,
+  .style4,
+  .style5 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 160px;
+    margin-top: 160px;
+    width: 320px;
+    height: 320px
+  }
+  .style5 {
+    margin-top: 64px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphone678horizontalgridrow0 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 160px;
+    width: 704px;
+    height: 320px;
+    align-items: stretch
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 0;
+    width: 320px
+  }
+  .style7 {
+    margin-left: 64px
+  }
+}
